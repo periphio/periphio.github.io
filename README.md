@@ -14,5 +14,7 @@ To add another redirect:
 5. it works!
 
 Try it out:
+
 http://prph.io
+
 http://prph.io/metatron

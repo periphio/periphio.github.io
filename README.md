@@ -12,3 +12,7 @@ To add another redirect:
 3. Edit the links in the new index.html
 4. Commit changes
 5. it works!
+
+Try it out:
+http://prph.io
+http://prph.io/metatron
